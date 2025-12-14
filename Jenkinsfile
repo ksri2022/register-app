@@ -1,4 +1,4 @@
-pipelineee {
+pipeline {
     agent { label 'Jenkins-Agent' }
     tools {
         jdk 'Java17'
